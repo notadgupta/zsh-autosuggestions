@@ -849,6 +849,8 @@ _zsh_autosuggest_start() {
 	_zsh_autosuggest_bind_widgets
 }
 
+say donut
+
 # Mark for auto-loading the functions that we use
 autoload -Uz add-zsh-hook is-at-least
 
